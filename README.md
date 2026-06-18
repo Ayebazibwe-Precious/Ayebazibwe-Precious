@@ -29,12 +29,6 @@ Git • GitHub • CI/CD • Docker • Nginx
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayebazibwe-Precious\&show_icons=true\&theme=tokyonight)
-
----
-
 ### 🌐 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/mary-precious-ayebazibwe-a20211374/
